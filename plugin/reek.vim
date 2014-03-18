@@ -2,7 +2,7 @@
 "
 " Author:   Louis A. Dunne <louisadunne@gmail.com>
 " License:  GPLv2
-" URL:      https://github.com/lad/vim-rubocop
+" URL:      https://github.com/lad/vim-reek
 "
 " grep-prog idea from Vincent Driessen original pep8 plugin
 
