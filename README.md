@@ -19,12 +19,12 @@ Installation
 3. If you want to use a specific config file set g:reek_config
 
     ```vim
-    let g:rubocop_config = "~/git/dev/roux/etc/config.reek"
+    let g:reek_config = "~/git/dev/roux/etc/config.reek"
     ```
 
-4. Setup whatever shortcuts you want to invoke RubocopThis (current file) or RubocopAll.
+4. Setup whatever shortcuts you want to invoke ReekThis (current file) or ReekAll.
 
     ```vim
-    nnoremap    <leader>Y       :RubocopThis<CR>
-    nnoremap    <leader>U       :RubocopAll<CR>
+    nnoremap    <leader>Y       :ReekThis<CR>
+    nnoremap    <leader>U       :ReekAll<CR>
     ```
