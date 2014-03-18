@@ -7,8 +7,7 @@
 " grep-prog idea from Vincent Driessen original pep8 plugin
 
 if !hlexists('GreenBar')
-  hi GreenBar term=reverse ctermfg=white ctermbg=darkgreen guifg=white \
-      guibg=darkgreen
+  hi GreenBar term=reverse ctermfg=white ctermbg=darkgreen guifg=white guibg=darkgreen
 endif
 
 let s:THIS_FILE = 0
